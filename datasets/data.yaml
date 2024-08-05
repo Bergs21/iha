@@ -1,0 +1,9 @@
+path: C:\Users\BerkeSEVİM\Desktop\datasets
+
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: drone
+  1: sabit_kanat
