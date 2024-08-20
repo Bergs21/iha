@@ -24,6 +24,6 @@ def pan_hareket(value) -> str:
 
 
 
-value = -80000
-formatted_hex_code = pan_hareket(value)
-print(formatted_hex_code)
+#value = -80000
+#formatted_hex_code = pan_hareket(value)
+#print(formatted_hex_code)
